@@ -1,1 +1,1 @@
-Berlin born and raised
+I cloned Hanna's repository, added a simple text file with the reason why I joined the Ironhack bootcamp, and changed the about.txt file.
